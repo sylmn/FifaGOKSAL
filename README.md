@@ -47,34 +47,5 @@ defans → Defend against attacks
 Requirements
 Java 17+ (or compatible version)
 
-Terminal/Console access
-
-Installation & Running
-bash
-Kopyala
-Düzenle
-# Clone the repository
-git clone https://github.com/sylmn/FifaGOKSAL.git
-
-# Navigate into the project folder
-cd FifaGOKSAL
-
-# Compile the Java file
-javac Main.java
-
-# Run the game
-java Main
-Example Gameplay
-markdown
-Kopyala
-Düzenle
-Enter your team name:
-Fenerbahçe Mücadeleniz başlamak üzere...
-eşleşme yapılıyor...
-Rakibiniz Real Madrid
-Maç Başlasın mı?
-1. Başla
-2. Tekrar başla
-3. çıkış
 License
 This project is open-source. You are free to modify and share it.
